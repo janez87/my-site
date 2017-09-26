@@ -2,147 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Mauri on Andrea Mauri</title>
-    <link>https://janez87.github.io/my-site/</link>
+    <link>http://www.andreamauri.com/</link>
     <description>Recent content in Andrea Mauri on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/my-site/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Better Call the Crowd: Using Crowdsourcing to Shape the Notation of Domain-Specific Languages</title>
-      <link>https://janez87.github.io/my-site/publication/2017sle_crowdmoedling/</link>
+      <link>http://www.andreamauri.com/publication/2017sle_crowdmoedling/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017sle_crowdmoedling/</guid>
+      <guid>http://www.andreamauri.com/publication/2017sle_crowdmoedling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSPLab, RDF Stream Processing Benchmarking made easy</title>
-      <link>https://janez87.github.io/my-site/publication/2017iswc_rsplab/</link>
+      <link>http://www.andreamauri.com/publication/2017iswc_rsplab/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017iswc_rsplab/</guid>
+      <guid>http://www.andreamauri.com/publication/2017iswc_rsplab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stressless RSP Benchmarking With RSPLab</title>
-      <link>https://janez87.github.io/my-site/publication/2017iswc_rsplab_demo/</link>
+      <link>http://www.andreamauri.com/publication/2017iswc_rsplab_demo/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017iswc_rsplab_demo/</guid>
+      <guid>http://www.andreamauri.com/publication/2017iswc_rsplab_demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Big Data Analysis Framework for Model-Based Web User Behavior Analytics</title>
-      <link>https://janez87.github.io/my-site/publication/2017icwe_bigdata/</link>
+      <link>http://www.andreamauri.com/publication/2017icwe_bigdata/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017icwe_bigdata/</guid>
+      <guid>http://www.andreamauri.com/publication/2017icwe_bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Modeling Languages and Web Logs for Enhanced User Behavior Analytics</title>
-      <link>https://janez87.github.io/my-site/publication/2017www_bigdata_demo/</link>
+      <link>http://www.andreamauri.com/publication/2017www_bigdata_demo/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017www_bigdata_demo/</guid>
+      <guid>http://www.andreamauri.com/publication/2017www_bigdata_demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://janez87.github.io/my-site/talk/example-talk/</link>
+      <link>http://www.andreamauri.com/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/talk/example-talk/</guid>
+      <guid>http://www.andreamauri.com/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling and Analyzing Engagement in Social Network Challenges</title>
-      <link>https://janez87.github.io/my-site/publication/2016wise/</link>
+      <link>http://www.andreamauri.com/publication/2016wise/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016wise/</guid>
+      <guid>http://www.andreamauri.com/publication/2016wise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A model-based method for seamless web and mobile experience</title>
-      <link>https://janez87.github.io/my-site/publication/2016mobile/</link>
+      <link>http://www.andreamauri.com/publication/2016mobile/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016mobile/</guid>
+      <guid>http://www.andreamauri.com/publication/2016mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TripleWave: Spreading RDF Streams on the Web</title>
-      <link>https://janez87.github.io/my-site/publication/2016iswc_triplewave/</link>
+      <link>http://www.andreamauri.com/publication/2016iswc_triplewave/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016iswc_triplewave/</guid>
+      <guid>http://www.andreamauri.com/publication/2016iswc_triplewave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automobile</title>
-      <link>https://janez87.github.io/my-site/project/automobile/</link>
+      <link>http://www.andreamauri.com/project/automobile/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/project/automobile/</guid>
+      <guid>http://www.andreamauri.com/project/automobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOLDCities</title>
-      <link>https://janez87.github.io/my-site/project/boldcities/</link>
+      <link>http://www.andreamauri.com/project/boldcities/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/project/boldcities/</guid>
+      <guid>http://www.andreamauri.com/project/boldcities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BPM4People</title>
-      <link>https://janez87.github.io/my-site/project/bpm4people/</link>
+      <link>http://www.andreamauri.com/project/bpm4people/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/project/bpm4people/</guid>
+      <guid>http://www.andreamauri.com/project/bpm4people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODALoop</title>
-      <link>https://janez87.github.io/my-site/project/codaloop/</link>
+      <link>http://www.andreamauri.com/project/codaloop/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/project/codaloop/</guid>
+      <guid>http://www.andreamauri.com/project/codaloop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CrowdSearcher</title>
-      <link>https://janez87.github.io/my-site/project/crowdsearcher/</link>
+      <link>http://www.andreamauri.com/project/crowdsearcher/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/project/crowdsearcher/</guid>
+      <guid>http://www.andreamauri.com/project/crowdsearcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECSTASYS</title>
-      <link>https://janez87.github.io/my-site/project/ecstasys/</link>
+      <link>http://www.andreamauri.com/project/ecstasys/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/project/ecstasys/</guid>
+      <guid>http://www.andreamauri.com/project/ecstasys/</guid>
       <description></description>
     </item>
     

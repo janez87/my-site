@@ -2,147 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Andrea Mauri</title>
-    <link>https://janez87.github.io/my-site/publication/</link>
+    <link>http://www.andreamauri.com/publication/</link>
     <description>Recent content in Publications on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/my-site/publication/" rel="self" type="application/rss+xml" />
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Better Call the Crowd: Using Crowdsourcing to Shape the Notation of Domain-Specific Languages</title>
-      <link>https://janez87.github.io/my-site/publication/2017sle_crowdmoedling/</link>
+      <link>http://www.andreamauri.com/publication/2017sle_crowdmoedling/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017sle_crowdmoedling/</guid>
+      <guid>http://www.andreamauri.com/publication/2017sle_crowdmoedling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSPLab, RDF Stream Processing Benchmarking made easy</title>
-      <link>https://janez87.github.io/my-site/publication/2017iswc_rsplab/</link>
+      <link>http://www.andreamauri.com/publication/2017iswc_rsplab/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017iswc_rsplab/</guid>
+      <guid>http://www.andreamauri.com/publication/2017iswc_rsplab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stressless RSP Benchmarking With RSPLab</title>
-      <link>https://janez87.github.io/my-site/publication/2017iswc_rsplab_demo/</link>
+      <link>http://www.andreamauri.com/publication/2017iswc_rsplab_demo/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017iswc_rsplab_demo/</guid>
+      <guid>http://www.andreamauri.com/publication/2017iswc_rsplab_demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Big Data Analysis Framework for Model-Based Web User Behavior Analytics</title>
-      <link>https://janez87.github.io/my-site/publication/2017icwe_bigdata/</link>
+      <link>http://www.andreamauri.com/publication/2017icwe_bigdata/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017icwe_bigdata/</guid>
+      <guid>http://www.andreamauri.com/publication/2017icwe_bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Modeling Languages and Web Logs for Enhanced User Behavior Analytics</title>
-      <link>https://janez87.github.io/my-site/publication/2017www_bigdata_demo/</link>
+      <link>http://www.andreamauri.com/publication/2017www_bigdata_demo/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2017www_bigdata_demo/</guid>
+      <guid>http://www.andreamauri.com/publication/2017www_bigdata_demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Modeling and Analyzing Engagement in Social Network Challenges</title>
-      <link>https://janez87.github.io/my-site/publication/2016wise/</link>
+      <link>http://www.andreamauri.com/publication/2016wise/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016wise/</guid>
+      <guid>http://www.andreamauri.com/publication/2016wise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A model-based method for seamless web and mobile experience</title>
-      <link>https://janez87.github.io/my-site/publication/2016mobile/</link>
+      <link>http://www.andreamauri.com/publication/2016mobile/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016mobile/</guid>
+      <guid>http://www.andreamauri.com/publication/2016mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TripleWave: Spreading RDF Streams on the Web</title>
-      <link>https://janez87.github.io/my-site/publication/2016iswc_triplewave/</link>
+      <link>http://www.andreamauri.com/publication/2016iswc_triplewave/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016iswc_triplewave/</guid>
+      <guid>http://www.andreamauri.com/publication/2016iswc_triplewave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Model Driven Development of Social Media Environmental Monitoring Applications.</title>
-      <link>https://janez87.github.io/my-site/publication/2016sweem/</link>
+      <link>http://www.andreamauri.com/publication/2016sweem/</link>
       <pubDate>Sat, 16 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2016sweem/</guid>
+      <guid>http://www.andreamauri.com/publication/2016sweem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Designing Complex Crowdsourcing Applications Covering Multiple Platforms and Tasks.</title>
-      <link>https://janez87.github.io/my-site/publication/2015design/</link>
+      <link>http://www.andreamauri.com/publication/2015design/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2015design/</guid>
+      <guid>http://www.andreamauri.com/publication/2015design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Where Are the RDF Streams?: On Deploying RDF Streams on the Web of Data with TripleWave</title>
-      <link>https://janez87.github.io/my-site/publication/2015iswc_triplewave/</link>
+      <link>http://www.andreamauri.com/publication/2015iswc_triplewave/</link>
       <pubDate>Mon, 12 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2015iswc_triplewave/</guid>
+      <guid>http://www.andreamauri.com/publication/2015iswc_triplewave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Explorative Approach for Crowdsourcing Tasks Design</title>
-      <link>https://janez87.github.io/my-site/publication/2015explorative/</link>
+      <link>http://www.andreamauri.com/publication/2015explorative/</link>
       <pubDate>Mon, 18 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2015explorative/</guid>
+      <guid>http://www.andreamauri.com/publication/2015explorative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive and Interoperable Crowdsourcing</title>
-      <link>https://janez87.github.io/my-site/publication/2015adaptive/</link>
+      <link>http://www.andreamauri.com/publication/2015adaptive/</link>
       <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2015adaptive/</guid>
+      <guid>http://www.andreamauri.com/publication/2015adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented Participation to Live Events through Social Network Content Enrichment</title>
-      <link>https://janez87.github.io/my-site/publication/2014eswc/</link>
+      <link>http://www.andreamauri.com/publication/2014eswc/</link>
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2014eswc/</guid>
+      <guid>http://www.andreamauri.com/publication/2014eswc/</guid>
       <description>&lt;p&gt;Third Place at the AI Mashup Challenge @ ESWC 2014&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Enriching Live Event Participation with Social Network Content Analysis and Visualization</title>
-      <link>https://janez87.github.io/my-site/publication/2014eswc_extended/</link>
+      <link>http://www.andreamauri.com/publication/2014eswc_extended/</link>
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://janez87.github.io/my-site/publication/2014eswc_extended/</guid>
+      <guid>http://www.andreamauri.com/publication/2014eswc_extended/</guid>
       <description></description>
     </item>
     
