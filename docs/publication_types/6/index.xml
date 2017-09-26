@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>6 on Andrea Mauri</title>
-    <link>https://example.com/publication_types/6/</link>
+    <link>https://janez87.github.io/my-site/publication_types/6/</link>
     <description>Recent content in 6 on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
     <lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/6/" rel="self" type="application/rss+xml" />
+    <atom:link href="/my-site/publication_types/6/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Extending search to crowds: a model-driven approach</title>
-      <link>https://example.com/publication/2012seco_crowd/</link>
+      <link>https://janez87.github.io/my-site/publication/2012seco_crowd/</link>
       <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2012seco_crowd/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2012seco_crowd/</guid>
       <description></description>
     </item>
     

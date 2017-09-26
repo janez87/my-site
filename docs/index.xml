@@ -2,147 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Mauri on Andrea Mauri</title>
-    <link>https://example.com/</link>
+    <link>https://janez87.github.io/my-site/</link>
     <description>Recent content in Andrea Mauri on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <atom:link href="/my-site/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Better Call the Crowd: Using Crowdsourcing to Shape the Notation of Domain-Specific Languages</title>
-      <link>https://example.com/publication/2017sle_crowdmoedling/</link>
+      <link>https://janez87.github.io/my-site/publication/2017sle_crowdmoedling/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2017sle_crowdmoedling/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2017sle_crowdmoedling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RSPLab, RDF Stream Processing Benchmarking made easy</title>
-      <link>https://example.com/publication/2017iswc_rsplab/</link>
+      <link>https://janez87.github.io/my-site/publication/2017iswc_rsplab/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2017iswc_rsplab/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2017iswc_rsplab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stressless RSP Benchmarking With RSPLab</title>
-      <link>https://example.com/publication/2017iswc_rsplab_demo/</link>
+      <link>https://janez87.github.io/my-site/publication/2017iswc_rsplab_demo/</link>
       <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2017iswc_rsplab_demo/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2017iswc_rsplab_demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Big Data Analysis Framework for Model-Based Web User Behavior Analytics</title>
-      <link>https://example.com/publication/2017icwe_bigdata/</link>
+      <link>https://janez87.github.io/my-site/publication/2017icwe_bigdata/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2017icwe_bigdata/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2017icwe_bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Modeling Languages and Web Logs for Enhanced User Behavior Analytics</title>
-      <link>https://example.com/publication/2017www_bigdata_demo/</link>
+      <link>https://janez87.github.io/my-site/publication/2017www_bigdata_demo/</link>
       <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2017www_bigdata_demo/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2017www_bigdata_demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://janez87.github.io/my-site/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://janez87.github.io/my-site/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Modeling and Analyzing Engagement in Social Network Challenges</title>
-      <link>https://example.com/publication/2016wise/</link>
+      <link>https://janez87.github.io/my-site/publication/2016wise/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2016wise/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2016wise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A model-based method for seamless web and mobile experience</title>
-      <link>https://example.com/publication/2016mobile/</link>
+      <link>https://janez87.github.io/my-site/publication/2016mobile/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2016mobile/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2016mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TripleWave: Spreading RDF Streams on the Web</title>
-      <link>https://example.com/publication/2016iswc_triplewave/</link>
+      <link>https://janez87.github.io/my-site/publication/2016iswc_triplewave/</link>
       <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2016iswc_triplewave/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2016iswc_triplewave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automobile</title>
-      <link>https://example.com/project/automobile/</link>
+      <link>https://janez87.github.io/my-site/project/automobile/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/automobile/</guid>
+      <guid>https://janez87.github.io/my-site/project/automobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BOLDCities</title>
-      <link>https://example.com/project/boldcities/</link>
+      <link>https://janez87.github.io/my-site/project/boldcities/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/boldcities/</guid>
+      <guid>https://janez87.github.io/my-site/project/boldcities/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BPM4People</title>
-      <link>https://example.com/project/bpm4people/</link>
+      <link>https://janez87.github.io/my-site/project/bpm4people/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/bpm4people/</guid>
+      <guid>https://janez87.github.io/my-site/project/bpm4people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CODALoop</title>
-      <link>https://example.com/project/codaloop/</link>
+      <link>https://janez87.github.io/my-site/project/codaloop/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/codaloop/</guid>
+      <guid>https://janez87.github.io/my-site/project/codaloop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CrowdSearcher</title>
-      <link>https://example.com/project/crowdsearcher/</link>
+      <link>https://janez87.github.io/my-site/project/crowdsearcher/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/crowdsearcher/</guid>
+      <guid>https://janez87.github.io/my-site/project/crowdsearcher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECSTASYS</title>
-      <link>https://example.com/project/ecstasys/</link>
+      <link>https://janez87.github.io/my-site/project/ecstasys/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/ecstasys/</guid>
+      <guid>https://janez87.github.io/my-site/project/ecstasys/</guid>
       <description></description>
     </item>
     

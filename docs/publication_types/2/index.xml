@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Andrea Mauri</title>
-    <link>https://example.com/publication_types/2/</link>
+    <link>https://janez87.github.io/my-site/publication_types/2/</link>
     <description>Recent content in 2 on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
     <lastBuildDate>Sun, 01 Nov 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    <atom:link href="/my-site/publication_types/2/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Designing Complex Crowdsourcing Applications Covering Multiple Platforms and Tasks.</title>
-      <link>https://example.com/publication/2015design/</link>
+      <link>https://janez87.github.io/my-site/publication/2015design/</link>
       <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2015design/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2015design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adaptive and Interoperable Crowdsourcing</title>
-      <link>https://example.com/publication/2015adaptive/</link>
+      <link>https://janez87.github.io/my-site/publication/2015adaptive/</link>
       <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/2015adaptive/</guid>
+      <guid>https://janez87.github.io/my-site/publication/2015adaptive/</guid>
       <description></description>
     </item>
     
