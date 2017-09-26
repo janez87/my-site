@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Andrea Mauri</title>
+    <link>https://example.com/publication_types/1/</link>
+    <description>Recent content in 1 on Andrea Mauri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
+    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Better Call the Crowd: Using Crowdsourcing to Shape the Notation of Domain-Specific Languages</title>
+      <link>https://example.com/publication/2017sle_crowdmoedling/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2017sle_crowdmoedling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSPLab, RDF Stream Processing Benchmarking made easy</title>
+      <link>https://example.com/publication/2017iswc_rsplab/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2017iswc_rsplab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Big Data Analysis Framework for Model-Based Web User Behavior Analytics</title>
+      <link>https://example.com/publication/2017icwe_bigdata/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2017icwe_bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling and Analyzing Engagement in Social Network Challenges</title>
+      <link>https://example.com/publication/2016wise/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2016wise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TripleWave: Spreading RDF Streams on the Web</title>
+      <link>https://example.com/publication/2016iswc_triplewave/</link>
+      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2016iswc_triplewave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extending the interaction flow modeling language (IFML) for model driven development of mobile applications front end</title>
+      <link>https://example.com/publication/2014ifml/</link>
+      <pubDate>Wed, 27 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2014ifml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pattern-based specification of crowdsourcing applications</title>
+      <link>https://example.com/publication/2014icwe_crowd/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2014icwe_crowd/</guid>
+      <description>&lt;p&gt;Winner of the Best Paper Award prize.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reactive Crowdsourcing</title>
+      <link>https://example.com/publication/2013www_reactive/</link>
+      <pubDate>Mon, 13 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publication/2013www_reactive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

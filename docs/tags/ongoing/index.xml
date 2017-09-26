@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing on Andrea Mauri</title>
+    <link>https://example.com/tags/ongoing/</link>
+    <description>Recent content in Ongoing on Andrea Mauri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ongoing/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>BOLDCities</title>
+      <link>https://example.com/project/boldcities/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/boldcities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CODALoop</title>
+      <link>https://example.com/project/codaloop/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/codaloop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSP Lab</title>
+      <link>https://example.com/project/rsplab/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/rsplab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TripleWave</title>
+      <link>https://example.com/project/triplewave/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/triplewave/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

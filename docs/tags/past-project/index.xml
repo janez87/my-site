@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past Project on Andrea Mauri</title>
+    <link>https://example.com/tags/past-project/</link>
+    <description>Recent content in Past Project on Andrea Mauri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/past-project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Automobile</title>
+      <link>https://example.com/project/automobile/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/automobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BPM4People</title>
+      <link>https://example.com/project/bpm4people/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/bpm4people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrowdSearcher</title>
+      <link>https://example.com/project/crowdsearcher/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/crowdsearcher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECSTASYS</title>
+      <link>https://example.com/project/ecstasys/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/ecstasys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EIT 3Cixty</title>
+      <link>https://example.com/project/eit-3cixty/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/eit-3cixty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EIT Connecting Digial Cities</title>
+      <link>https://example.com/project/eit-connecting-digial-cities/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/eit-connecting-digial-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IFML</title>
+      <link>https://example.com/project/ifml/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/ifml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UrbanScope</title>
+      <link>https://example.com/project/urbanscope/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/urbanscope/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
