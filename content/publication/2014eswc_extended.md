@@ -1,0 +1,15 @@
++++
+abstract = "During live events like conferences or exhibitions, people nowadays share their opinions, multimedia contents, suggestions, related materials, and reports through social networking platforms, such as Twitter. However, live events also feature inherent complexity, in the sense that they comprise multiple parallel sessions or happenings (e.g., in a conference you have several sessions in different rooms). The focus of this research is to improve the experience of (local or remote) attendees, by exploiting the contents shared on the social networks. The framework gathers in real time the tweets related to the event, analyses them and links them to the specific sub-events they refer to. Attendees have an holistic view on what is happening and where, so as to get help when deciding what sub-event to attend. To achieve its goal, the application consumes data from different data sources: Twitter, the official event schedule, plus domain specific content (for instance, in case of a computer science conference, DBLP and Google Scholar). Such data is analyzed through a combination of semantic web, crowdsourcing (e.g., by soliciting further inputs from attendees), and machine learning techniques (including NLP and NER) for building a rich content base for the event. The paradigm is shown at work on a Computer Science conference (WWW 2013)"
+authors = ["Marco Brambilla","Daniele Dell'Aglio","Emanuele Della Valle","Andrea Mauri","Riccardo Volonterio"]
+date = "2014-10-16"
+image_preview = ""
+math = true
+publication_types = ["3"]
+publication = "ESWC 2014: The Semantic Web: ESWC 2014 Satellite Events"
+publication_short = "ESWC2014"
+selected = false
+title = "Enriching Live Event Participation with Social Network Content Analysis and Visualization"
+#url_slides = "https://www.slideshare.net/AndreaMauri1/communitybased-crowdsourcing"
+url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-11955-7_13"
++++
+

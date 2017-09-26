@@ -3,20 +3,20 @@
 date = "2016-04-27"
 
 # Project title.
-title = "EIT 3Cixty"
+title = "CODALoop"
 
 # Project summary to display on homepage.
-summary = "3cixty is a new initiative launched in 2014 to drive European leadership in future ICT-enabled urban life and mobility solutions. The initiative will realise a platform and related service ecosystem for the provisioning of comprehensive heterogeneous city-related mobility information"
+summary = "This project presents a sociological approach and explores the extent to which social interactions, at the level of the neighborhood, might be able to challenge current energy needs and to spur the construction of new meanings of energy, which ultimately might lead to a reduction of energy usage."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["past-project"]
+tags = ["ongoing"]
 
 # Optional external URL for project (replaces project detail page).
-#external_link = "http://www.eitdigital.eu/conference/exhibition/3cixty/"
+external_link = "https://www.codaloopamsterdam.org/"
 
 # Does the project detail page use math formatting?
 math = false
