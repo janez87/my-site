@@ -50,4 +50,4 @@ In particular he is interested in applying data science techniques for integrati
 
 He is also interested in RDF Stream Processing with particular focus on publishing streams on the web and benchmarking.
 
-Donwload my full CV [here](/upload/cv_andrea_mauri.pdf)
+#Donwload my full CV [here](/upload/cv_andrea_mauri.pdf)
