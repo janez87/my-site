@@ -1,9 +1,9 @@
 +++
 date = "2016-04-20T11:00:00"
-draft = false
+draft = true
 tags = ["academic", "hugo"]
 title = "Customizing the homepage with widgets"
-math = false
+math = true
 summary = """
 Enable/disable and configure widgets to customize your homepage.
 """

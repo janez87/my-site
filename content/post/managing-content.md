@@ -1,9 +1,9 @@
 +++
 date = "2016-04-20T11:00:00"
-draft = false
+draft = true
 tags = ["academic", "hugo"]
 title = "Managing content"
-math = false
+math = true
 +++
 
 This is a brief guide to managing content with the Academic framework. Content can include publications, projects, talks, and news/blog articles. After you have read this guide about creating and managing content, you may also be interested to learn about [writing content with Markdown, LaTeX, and Shortcodes]({{< ref "post/writing-markdown-latex.md" >}}).<!--more-->
