@@ -19,5 +19,5 @@ Form the 20th to the 26th of October I'll be at the International Semantic Web C
 
 ![boromir](/img/boromir.jpg)
 
-I'll be presenting the demo **Stressless RSP Benchmarking with RSPLab**, which will show how RSPLab enables design of experiments by the means of a programmatic interface that allows deploying the environment, running experiments, measuring the performance, visualizing the results as reports, and cleaning up the environment to get ready for a new experiment.y.
+I'll be presenting the demo **Stressless RSP Benchmarking with RSPLab**, which will show how RSPLab enables design of experiments using a programmatic interface that allows deploying the environment, running experiments, measuring the performance, visualizing the results.
 
