@@ -20,7 +20,7 @@
 
 &lt;p&gt;&lt;img src=&#34;http://www.andreamauri.com/img/boromir.jpg&#34; alt=&#34;boromir&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I&amp;rsquo;ll be presenting the demo &lt;strong&gt;Stressless RSP Benchmarking with RSPLab&lt;/strong&gt;, which will show how RSPLab enables design of experiments by the means of a programmatic interface that allows deploying the environment, running experiments, measuring the performance, visualizing the results as reports, and cleaning up the environment to get ready for a new experiment.y.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll be presenting the demo &lt;strong&gt;Stressless RSP Benchmarking with RSPLab&lt;/strong&gt;, which will show how RSPLab enables design of experiments using a programmatic interface that allows deploying the environment, running experiments, measuring the performance, visualizing the results.&lt;/p&gt;
 </description>
     </item>
     
