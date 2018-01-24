@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Andrea Mauri</copyright>
-    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comparison of different driving style analysis approaches based on trip segmentation over GPS information</title>
+      <link>http://www.andreamauri.com/publication/2017bigdata_driving/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/publication/2017bigdata_driving/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Better Call the Crowd: Using Crowdsourcing to Shape the Notation of Domain-Specific Languages</title>
