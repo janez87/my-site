@@ -1,5 +1,5 @@
 +++
-date = "2016-04-20T12:00:00"
+date = "2017-04-20T12:00:00"
 draft = false
 tags = ["news", "iswc"]
 title = "Going to ISWC!"
