@@ -12,7 +12,7 @@ math = true
 publication_types = ["1"]
 publication = " 2017 IEEE International Conference on Big Data"
 publication_short = "In BigData2017"
-selected = true
+selected = false
 title = "Comparison of different driving style analysis approaches based on trip segmentation over GPS information"
 url_pdf = "http://ieeexplore.ieee.org/document/8258379/"
 #url_video = "https://www.youtube.com/watch?v=FaIkN2oygto"
