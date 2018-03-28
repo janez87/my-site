@@ -11,6 +11,15 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content</title>
+      <link>http://www.andreamauri.com/publication/2018www_ssm_demo/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/publication/2018www_ssm_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comparison of different driving style analysis approaches based on trip segmentation over GPS information</title>
       <link>http://www.andreamauri.com/publication/2017bigdata_driving/</link>
       <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
@@ -134,16 +143,6 @@
       
       <guid>http://www.andreamauri.com/publication/2015adaptive/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Augmented Participation to Live Events through Social Network Content Enrichment</title>
-      <link>http://www.andreamauri.com/publication/2014eswc/</link>
-      <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.andreamauri.com/publication/2014eswc/</guid>
-      <description>&lt;p&gt;Third Place at the AI Mashup Challenge @ ESWC 2014&lt;/p&gt;
-</description>
     </item>
     
   </channel>

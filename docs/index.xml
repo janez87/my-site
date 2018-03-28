@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content</title>
+      <link>http://www.andreamauri.com/publication/2018www_ssm_demo/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/publication/2018www_ssm_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Going to WWW!</title>
       <link>http://www.andreamauri.com/post/www/</link>
       <pubDate>Wed, 28 Mar 2018 12:00:00 +0000</pubDate>
@@ -18,7 +27,7 @@
       <guid>http://www.andreamauri.com/post/www/</guid>
       <description>&lt;p&gt;Form the 23th to the 28th of April I&amp;rsquo;ll be at the Web Conference (WWW) held in Lyon.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www.andreamauri.com/img/www2018_demo.jpg&#34; alt=&#34;boromir&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.andreamauri.com/img/www2018_demo.png&#34; alt=&#34;boromir&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;ll be presenting the demo &lt;strong&gt;Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content&lt;/strong&gt;, which aim to investigate to which extent social media can be used as complementary source of information about individual energy consumption behavior.&lt;/p&gt;
 </description>
@@ -144,15 +153,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/project/boldcities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BPM4People</title>
-      <link>http://www.andreamauri.com/project/bpm4people/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.andreamauri.com/project/bpm4people/</guid>
       <description></description>
     </item>
     
