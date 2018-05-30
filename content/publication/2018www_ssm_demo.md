@@ -13,7 +13,7 @@ publication = "WWW2018 Companion Proceedings of the 27th International Conferenc
 publication_short = "In WWW2018"
 selected = true
 title = "Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content"
-#url_pdf = "http://dl.acm.org/citation.cfm?doid=3041021.3054734"
+url_pdf = "https://dl.acm.org/citation.cfm?id=3186977"
 #url_video = "https://www.youtube.com/watch?v=FaIkN2oygto"
 
 +++

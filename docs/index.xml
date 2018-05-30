@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Iterative Knowledge Extraction from Social Networks</title>
+      <link>http://www.andreamauri.com/publication/2018www_knowledge/</link>
+      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/publication/2018www_knowledge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content</title>
       <link>http://www.andreamauri.com/publication/2018www_ssm_demo/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
@@ -144,15 +153,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/project/automobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BOLDCities</title>
-      <link>http://www.andreamauri.com/project/boldcities/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.andreamauri.com/project/boldcities/</guid>
       <description></description>
     </item>
     
