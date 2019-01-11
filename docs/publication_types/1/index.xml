@@ -6,9 +6,11 @@
     <description>Recent content in 1 on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrea Mauri</copyright>
+    <copyright>&amp;copy; 2019 Andrea Mauri</copyright>
     <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.andreamauri.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Comparison of different driving style analysis approaches based on trip segmentation over GPS information</title>
@@ -79,8 +81,7 @@
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/publication/2014icwe_crowd/</guid>
-      <description>&lt;p&gt;Winner of the Best Paper Award prize.&lt;/p&gt;
-</description>
+      <description>Winner of the Best Paper Award prize.</description>
     </item>
     
     <item>

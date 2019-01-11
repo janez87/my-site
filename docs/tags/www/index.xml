@@ -6,9 +6,11 @@
     <description>Recent content in Www on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrea Mauri</copyright>
+    <copyright>&amp;copy; 2019 Andrea Mauri</copyright>
     <lastBuildDate>Wed, 28 Mar 2018 12:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/www/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.andreamauri.com/tags/www/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Going to WWW!</title>
@@ -16,12 +18,8 @@
       <pubDate>Wed, 28 Mar 2018 12:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/post/www/</guid>
-      <description>&lt;p&gt;Form the 23th to the 28th of April I&amp;rsquo;ll be at the Web Conference (WWW) held in Lyon.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.andreamauri.com/img/www2018_demo.png&#34; alt=&#34;boromir&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll be presenting the demo &lt;strong&gt;Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content&lt;/strong&gt;, which aim to investigate to which extent social media can be used as complementary source of information about individual energy consumption behavior.&lt;/p&gt;
-</description>
+      <description>Form the 23th to the 28th of April I&amp;rsquo;ll be at the Web Conference (WWW) held in Lyon.
+I&amp;rsquo;ll be presenting the demo Social Smart Meter: Identifying Energy Consumption Behavior in User-Generated Content, which aim to investigate to which extent social media can be used as complementary source of information about individual energy consumption behavior.</description>
     </item>
     
   </channel>

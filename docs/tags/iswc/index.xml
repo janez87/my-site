@@ -6,9 +6,11 @@
     <description>Recent content in Iswc on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrea Mauri</copyright>
+    <copyright>&amp;copy; 2019 Andrea Mauri</copyright>
     <lastBuildDate>Thu, 20 Apr 2017 12:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/iswc/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.andreamauri.com/tags/iswc/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Going to ISWC!</title>
@@ -16,12 +18,8 @@
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/post/iswc/</guid>
-      <description>&lt;p&gt;Form the 20th to the 26th of October I&amp;rsquo;ll be at the International Semantic Web Conference held in Vienna.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www.andreamauri.com/img/boromir.jpg&#34; alt=&#34;boromir&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll be presenting the demo &lt;strong&gt;Stressless RSP Benchmarking with RSPLab&lt;/strong&gt;, which will show how RSPLab enables design of experiments using a programmatic interface that allows deploying the environment, running experiments, measuring the performance, visualizing the results.&lt;/p&gt;
-</description>
+      <description>Form the 20th to the 26th of October I&amp;rsquo;ll be at the International Semantic Web Conference held in Vienna.
+I&amp;rsquo;ll be presenting the demo Stressless RSP Benchmarking with RSPLab, which will show how RSPLab enables design of experiments using a programmatic interface that allows deploying the environment, running experiments, measuring the performance, visualizing the results.</description>
     </item>
     
   </channel>

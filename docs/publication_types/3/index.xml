@@ -6,9 +6,11 @@
     <description>Recent content in 3 on Andrea Mauri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018 Andrea Mauri</copyright>
+    <copyright>&amp;copy; 2019 Andrea Mauri</copyright>
     <lastBuildDate>Mon, 31 Oct 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/3/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.andreamauri.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>A model-based method for seamless web and mobile experience</title>
@@ -43,8 +45,7 @@
       <pubDate>Thu, 16 Oct 2014 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/publication/2014eswc/</guid>
-      <description>&lt;p&gt;Third Place at the AI Mashup Challenge @ ESWC 2014&lt;/p&gt;
-</description>
+      <description>Third Place at the AI Mashup Challenge @ ESWC 2014</description>
     </item>
     
     <item>
