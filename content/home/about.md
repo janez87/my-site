@@ -12,9 +12,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Human Computation",
-    "Social Media Analytics",
-    "Data Science"
+    "Data Science for the Society",
+    "Human Computation and Crowdsourcing",
+    "Model Driven Engineering"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -37,12 +37,8 @@ weight = 1
 
 # Biography
 
-Andrea Mauri is a Postdoctoral Researcher within Web Information System group at the Delft University of Technology. Here he works in the context of the JOIN “Big Data for Evidence-based Youth Policy” project, which aims to investigate to what extent social (big) data can be used to help to identify NEEts and inform policies for improving their integration with the society.
+I am a Postdoctoral Researcher within Web Information System group at the Delft University of Technology. Here I work in the context of the JOIN “Big Data for Evidence-based Youth Policy” project, which aims to investigate to what extent social (big) data can be used to help to identify NEEts and inform policies for improving their integration with the society.
 
-For a brief period he was a PostDoc Researcher in the Research Group of Urban Development Management at the Delft University of Technology where he worked in the context of the BOLD Cities project, which aimed to use big data research to help find solutions for urban problems.
-
-Previously he was a PostDoc Researcher at the Dipartimento di Elettronica, Informazione e Bioingegneria (DEIB) of the Politecnico di Milano in the DataScience Group where he studied models, methods and technologies for Crowdsourcing and Human Computation, with special attention to problems related to: crowd and social networks integration, adaptation and control of crowdsourcing task. He also studied model-driven software engineering, with particular focus on language specification and model transformations, and in the definition of business process-based applications integrated with social network practices.
-
-His main research interests include smart city sensing and social content analysis. In particular he applies data science techniques to integrate heterogeneous data sources in order to discover knowledge that would remain hidden otherwise.
+My  main research interests include the study, design, implementation and evaluation of novel methods and tools for Web information systems engineering and Web data management, focusing on human in the loop and data science techniques for better understanding societal problems and provide stakeholders with instruments to address those issues
 
 
