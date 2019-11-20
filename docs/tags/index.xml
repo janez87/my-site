@@ -31,6 +31,15 @@
     </item>
     
     <item>
+      <title>Join</title>
+      <link>http://www.andreamauri.com/tags/join/</link>
+      <pubDate>Thu, 10 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/tags/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>News</title>
       <link>http://www.andreamauri.com/tags/news/</link>
       <pubDate>Wed, 28 Mar 2018 12:00:00 +0000</pubDate>
@@ -42,9 +51,18 @@
     <item>
       <title>Ongoing</title>
       <link>http://www.andreamauri.com/tags/ongoing/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/tags/ongoing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Past</title>
+      <link>http://www.andreamauri.com/tags/past/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/tags/past/</guid>
       <description></description>
     </item>
     
@@ -54,6 +72,15 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/tags/past-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>http://www.andreamauri.com/tags/presentation/</link>
+      <pubDate>Thu, 10 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/tags/presentation/</guid>
       <description></description>
     </item>
     

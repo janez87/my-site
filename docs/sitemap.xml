@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>http://www.andreamauri.com/project/join/</loc>
+      <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.andreamauri.com/post/2019rotterdam/</loc>
+      <lastmod>2019-10-10T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.andreamauri.com/publication/2019mdpi_energy/</loc>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.andreamauri.com/publication/2018www_knowledge/</loc>
       <lastmod>2018-04-23T00:00:00+00:00</lastmod>
     </url>
@@ -421,7 +448,7 @@
     <url>
     
       <loc>http://www.andreamauri.com/publication_types/2/</loc>
-      <lastmod>2015-11-01T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-21T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -489,6 +516,16 @@
     
     <url>
     
+      <loc>http://www.andreamauri.com/tags/join/</loc>
+      <lastmod>2019-10-10T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.andreamauri.com/tags/news/</loc>
       <lastmod>2018-03-28T12:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -500,6 +537,16 @@
     <url>
     
       <loc>http://www.andreamauri.com/tags/ongoing/</loc>
+      <lastmod>2019-10-30T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://www.andreamauri.com/tags/past/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -519,8 +566,18 @@
     
     <url>
     
+      <loc>http://www.andreamauri.com/tags/presentation/</loc>
+      <lastmod>2019-10-10T12:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://www.andreamauri.com/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <lastmod>2019-10-30T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

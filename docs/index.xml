@@ -11,6 +11,38 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>JOIN: Big Data for Evidence-based Youth Policy</title>
+      <link>http://www.andreamauri.com/project/join/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/project/join/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presentation at Rotterdam Knowledge Lab of Urban Big Data</title>
+      <link>http://www.andreamauri.com/post/2019rotterdam/</link>
+      <pubDate>Thu, 10 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/post/2019rotterdam/</guid>
+      <description>&lt;p&gt;On the 10th of October I gave a presentation for the Rotterdam Knowledge Lab of Urban Big Data on my work where I explored if and how new sources from the internet could complement conventional sources to study NEETs.&lt;/p&gt;
+
+&lt;p&gt;My research focuses on user-generated content posted to the dedicated r/NEET group on the platform Reddit, which gathers about 4800 subscribers who self-identify as NEETs. I developed and implemented a new method to assess the behavioral patterns and main concerns of the NEETs that are present in this data.&lt;/p&gt;
+
+&lt;p&gt;Here you can find the link to the video: &lt;a href=&#34;http://urbanbigdata.nl/updates/188/lezing-andrea-mauri&#34; target=&#34;_blank&#34;&gt;http://urbanbigdata.nl/updates/188/lezing-andrea-mauri&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level</title>
+      <link>http://www.andreamauri.com/publication/2019mdpi_energy/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.andreamauri.com/publication/2019mdpi_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Iterative Knowledge Extraction from Social Networks</title>
       <link>http://www.andreamauri.com/publication/2018www_knowledge/</link>
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
@@ -126,33 +158,6 @@
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.andreamauri.com/publication/2016wise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A model-based method for seamless web and mobile experience</title>
-      <link>http://www.andreamauri.com/publication/2016mobile/</link>
-      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.andreamauri.com/publication/2016mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TripleWave: Spreading RDF Streams on the Web</title>
-      <link>http://www.andreamauri.com/publication/2016iswc_triplewave/</link>
-      <pubDate>Fri, 23 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.andreamauri.com/publication/2016iswc_triplewave/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automobile</title>
-      <link>http://www.andreamauri.com/project/automobile/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.andreamauri.com/project/automobile/</guid>
       <description></description>
     </item>
     
