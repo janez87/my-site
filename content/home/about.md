@@ -37,8 +37,9 @@ weight = 1
 
 # Biography
 
-I am a Postdoctoral Researcher within Web Information System group at the Delft University of Technology. Here I work in the context of the JOIN “Big Data for Evidence-based Youth Policy” project, which aims to investigate to what extent social (big) data can be used to help to identify NEEts and inform policies for improving their integration with the society.
+I am a Postdoctoral Researcher within Web Information System group at the Delft University of Technology. Here I work in the context of the JOIN “Big Data for Evidence-based Youth Policy” project, which aims to investigate to what extent social (big) data can be used to help to identify NEETs and inform policies for improving their integration with the society.
 
-My  main research interests include the study, design, implementation and evaluation of novel methods and tools for Web information systems engineering and Web data management, focusing on human in the loop and data science techniques for better understanding societal problems and provide stakeholders with instruments to address those issues
+My current research interests lie in data science, applied machine learning, human-computation and data-driven approaches for the analysis of society and its problems. My current research includes the design, implementation and evaluation of novel computational methods and tools for Web information systems engineering and Web data management, focusing on humans in the loop and data science techniques for better understanding societal problems and provide stakeholders with instruments to address those issues by enabling data-driven policy making. The focus is on data-driven and theory-informed approaches to characterize people's needs within a societal problem,  understand the gaps with existing solutions, and develop tools to support stakeholders. There is an enormous amount of data out there that brings the opportunity to deeply understand how people interact with the environment, the institutions and between each other, together with exciting research challenges on how to efficiently and effectively extract  meaningful information and how to visualize and communicate it. Application domains of interest include energy consumption behavior,  mental health, unemployment, vulnerable group of people, cultural heritage and privacy.
+
 
 
