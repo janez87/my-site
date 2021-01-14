@@ -5,13 +5,13 @@ authors = [	"Roos de Kok",
 "Andrea Mauri",		
 "Alessandro Bozzon",	
 ]
-date = "2018-12-21"
+date = "2019-01-01"
 image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "Energies, Issue 12, 2019, Special Issue on Open Data and Energy Analytics"
 publication_short = "In Open Data and Energy Analytics"
-selected = true
+featured = false
 title = "Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level"
 url_pdf = "https://www.mdpi.com/1996-1073/12/1/15"
 #url_video = "https://www.youtube.com/watch?v=FaIkN2oygto"
