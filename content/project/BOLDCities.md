@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2016-04-27"
+date = "2021-03-18"
 
 # Project title.
 title = "BOLDCities"
@@ -13,7 +13,7 @@ image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ongoing"]
+tags = ["past-project"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "http://www.centre-for-bold-cities.nl/home"

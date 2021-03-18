@@ -72,6 +72,6 @@ highlight_name: false
 
 I am a Postdoctoral Researcher within the Knowledge and Intelligence Design Group at the [Sustainable Design Engineering Department](https://www.tudelft.nl/en/ide/about-ide/departments/sustainable-design-engineering/) at the Delft University of Technology and a Research fellow at the [Amsterdam Institute for Advanced Metropolitan Solutions](https://www.ams-institute.org/).
 
-My current research interest lies in data science, applied machine learning, and human-computation. His effort is devoted design, implementation, and evaluation of novel computational methods and tools, focusing on hybrid AI/humans in the loop methodologies. In particular, he is interested in applying this body of knowledge in the design and development of tools to study and address problems of societal relevance, such as well-being, sustainability, cultural heritage, and privacy.
+My current research interest lies in data science, applied machine learning, and human-computation. My effort is devoted design, implementation, and evaluation of novel computational methods and tools, focusing on hybrid AI/humans in the loop methodologies. In particular, I'm interested in applying this body of knowledge in the design and development of tools to study and address problems of societal relevance, such as well-being, sustainability, cultural heritage, and privacy.
 
 To this end, I research AI based solutions to extract meaningful information from user generated content and how to combine them with traditional user centered design methods.

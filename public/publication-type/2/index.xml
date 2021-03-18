@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Andrea Mauri</title>
+    <link>http://www.andreamauri.com/publication-type/2/</link>
+      <atom:link href="http://www.andreamauri.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.andreamauri.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>http://www.andreamauri.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Processing of User-Generated Content for the Description of Energy-Consuming Activities at Individual and Group Level</title>
+      <link>http://www.andreamauri.com/publication/2019mdpi_energy/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.andreamauri.com/publication/2019mdpi_energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing Complex Crowdsourcing Applications Covering Multiple Platforms and Tasks.</title>
+      <link>http://www.andreamauri.com/publication/2015design/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.andreamauri.com/publication/2015design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive and Interoperable Crowdsourcing</title>
+      <link>http://www.andreamauri.com/publication/2015adaptive/</link>
+      <pubDate>Mon, 12 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.andreamauri.com/publication/2015adaptive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
